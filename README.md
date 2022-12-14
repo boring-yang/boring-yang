@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @physavvy
+- 👋 Hi, I’m @boring-yang
 - 👀 I’m interested in Science and Technology
 - 🌱 I’m currently learning QFT
 - 💞️ I’m looking to collaborate on quantum information
